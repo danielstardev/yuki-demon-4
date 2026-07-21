@@ -1,15 +1,15 @@
 {
   "schema_version": "1",
   "open_source": true,
-  "model_name": "poker44-hexa-detector",
+  "model_name": "poker44-tetra-detector",
   "model_version": "1",
   "framework": "mlp",
   "license": "MIT",
   "repo_url": "https://github.com/danielstardev/yuki-demon-4",
   "repo_commit": "",
-  "artifact_sha256": "be5737bba655ac0e7e8e3079402bb784885df25564f5893f36049088abc54c7c",
+  "artifact_sha256": "4b659b408a2a9001e6823380beebfbc39cbfbef8c87be8243f04ea60bc6ecfa7",
   "artifact_basename": "current.joblib",
-  "implementation_sha256": "ce95932bc7f7a091dde3402bdcc73eb77491dde9ad2539a32b5744ea6375ed90",
+  "implementation_sha256": "db5a9e5738d26b37f6252ec964e088669bfc2fef7e982b3c2cd9a91aae2fb7c9",
   "implementation_files": [
     "neurons/miner.py",
     "poker44_ml/inference.py",
